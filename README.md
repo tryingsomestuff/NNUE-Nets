@@ -11,4 +11,4 @@ These are nets compatible with version 0x7AF32F16u of SF NNUE implementation. Mi
 
 These nets are compatible with Minic >=3.00 
 
-- **nefariousnucleus** : same data as nascent nutrient.
+- **nefarious nucleus** : same data as nascent nutrient.
